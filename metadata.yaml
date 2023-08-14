@@ -1,0 +1,36 @@
+_repo: Auf-Schneeschuhen-durch-Gronland-Zweiter-Band_71355
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Mann, M.
+    gutenberg_agent_id: '56189'
+    url: http://www.gutenberg.org/2009/agents/56189
+creator:
+  author:
+    agent_name: Nansen, Fridtjof
+    aliases:
+    - Nansen, Frityof
+    - Nansen, Fridyof
+    birthdate: 1861
+    deathdate: 1930
+    gutenberg_agent_id: '34437'
+    url: http://www.gutenberg.org/2009/agents/34437
+    wikipedia: http://en.wikipedia.org/wiki/Fridtjof_Nansen
+description: ''
+gutenberg_issued: '2023-08-06'
+identifiers:
+  gutenberg: '71355'
+language: de
+pgterms:marc905: 20200223052631nansen
+pgterms:marc906: '1897'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aHamburg :$bVerlagsanstalt und Druckerei Actien-Gesellschaft,
+  $c1897.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Auf Schneeschuhen durch Grönland. Zweiter Band
+url: http://www.gutenberg.org/ebooks/71355
