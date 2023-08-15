@@ -5,6 +5,9 @@ contributor:
     agent_name: Mann, M.
     gutenberg_agent_id: '56189'
     url: http://www.gutenberg.org/2009/agents/56189
+covers:
+- cover_type: archival
+  image_path: 71355-h/images/cover.jpg
 creator:
   author:
     agent_name: Nansen, Fridtjof
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34437
     wikipedia: http://en.wikipedia.org/wiki/Fridtjof_Nansen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71355#Auf-Schneeschuhen-durch-Gronland-Zweiter-Band
 gutenberg_issued: '2023-08-06'
 identifiers:
   gutenberg: '71355'
